@@ -18,9 +18,9 @@ Screenshots will be provided.
 Instances Found: 
 https://dxr.mozilla.org/mozilla-central/search?q=%22throw+%22+path%3Atoolkit%2Fcomponents%2Fcontentprefs&redirect=false&case=true
 
-File | Count
+File | Count | Line(s)
 --- | ---
-toolkit/components/contentprefs/ContentPrefService2.jsm | 1
-toolkit/components/contentprefs/nsContentPrefService.js | 1
-toolkit/components/contentprefs/tests/unit/head_contentPrefs.js | 2 
-toolkit/components/contentprefs/tests/unit/test_contentPrefs.js | 3
+toolkit/components/contentprefs/ContentPrefService2.jsm | 1 | 847
+toolkit/components/contentprefs/nsContentPrefService.js | 1 | 72
+toolkit/components/contentprefs/tests/unit/head_contentPrefs.js | 2 | 54, 71
+toolkit/components/contentprefs/tests/unit/test_contentPrefs.js | 3 | 242, 268, 341
